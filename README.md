@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @Teteu-Luciano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+-### Boas vindas ao meu perfil no GitHub
+-
+- Meu nome é Matheus Luciano. 🇧🇷
+- Eu sou estudante e estou aprendendo a linguagem de programação Java Script, HTML, CSS.💻
+- Utilizo este espaço para armazenar meus códigose compartilhar experiências
+
+- ### Meu email de contato é 📧
+- l.matheus28@escola.pr.gov.br
+
+- ![](
